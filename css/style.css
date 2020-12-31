@@ -458,7 +458,7 @@ html{
     height: 340px;
     margin-top: 140px;
     color: #222;
-    background-image: url(../img/ad.jpg);
+    background-image: url(../img/special.jpg);
     background-position: top center;
     position: relative;
     background-repeat: no-repeat;
@@ -1412,7 +1412,7 @@ a.close {
         margin-top: 0;
         height: 0;
         padding-top: calc(469/768*100%);
-        background-image: url(../img/ad_mobile.jpg);
+        background-image: url(../img/special_mobile.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
